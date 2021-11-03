@@ -1,0 +1,10 @@
+canvas{
+    background-color: #eee;
+    position: absolute;
+    top: 200px;
+    left: 530px;
+}
+h1{
+    text-align: center;
+    margin-top: 140px;
+}
